@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moacyr Ribeiro Blondet
+==============================================================================================================================================
 
-<!--
-**Moriblo/moriblo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Program and Strategy Management
+-------------------------------
 
-Here are some ideas to get you started:
+Professional with substantial experience in TMT market, developed in Brazil, USA and Morocco. In highlight, I have worked in different management and consultancy functions, had faced an operation of more than 500 employees, covering an area of more than 1MMKm² in Brazil, with a challenger OpEx and contract management routines. Additionally I managed programs with CapEx amount around U$ 50MM, with almost 50 different suppliers, closing fiscal years aligned with the stakeholders’ expectations following the corporation’s guides for ESG. Different responsibilities in startups, M&A, Carve-out, PMO setup and operational implementation in Brazil and abroad were others experiences in my career. Definitively, teamwork is the secret of success and I am here in guthub to evolve together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Rio de Janeiro - Brazil
+*   ✉️  You can contact me at [blondet.mr@gmail.com](mailto:blondet.mr@gmail.com)
+*   🚀  I'm currently working on [Projeto Obras de Arte](http://github.com/Moriblo/front)
+*   🤝  I'm open to collaborating on https://github.com/Moriblo/ESG-Value-Mining
+*   ⚡  The ESG Value Mining is a challenger project to study the paths to integrate various ESGs themes. The main target is founding the best options to reach best results in the ESG improvements.
