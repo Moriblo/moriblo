@@ -1,6 +1,5 @@
-[Projeto Obras de Arte]
+[Projeto Obras de Arte](https://github.com/Moriblo/front/blob/main/README.md)
 
-* [Projeto Obras de Arte [Front]](https://github.com/Moriblo/front/blob/main/README.md)
 * [API_C Obras de Arte [app.py]]
 * [API_B1 Tradutor [tradutor.py]
 * [API_B2
