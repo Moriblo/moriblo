@@ -2,8 +2,11 @@
 
 [Projeto Obras de Arte](https://moriblo.github.io/ObA/)
 
-* [Front](https://github.com/Moriblo/front/blob/main/README.md)
-
+* [Projeto Obras de Arte [Front]](https://github.com/Moriblo/front/blob/main/README.md)
+* [API_C Obras de Arte [app.py]]
+* [API_B1 Tradutor [tradutor.py]
+* [API_B2
+  
 ![Projeto Obras de Arte](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/800px-Louvre_Courtyard%2C_Looking_West.jpg)
 
 <!--
