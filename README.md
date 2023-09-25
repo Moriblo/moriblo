@@ -1,6 +1,4 @@
-### Hi Teachers 👋
-
-[Projeto Obras de Arte](https://moriblo.github.io/ObA/)
+[Projeto Obras de Arte]
 
 * [Projeto Obras de Arte [Front]](https://github.com/Moriblo/front/blob/main/README.md)
 * [API_C Obras de Arte [app.py]]
