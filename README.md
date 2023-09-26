@@ -7,7 +7,7 @@
 
 >🎥  __[Roteiro](https://github.com/Moriblo/front/issues/5)__
 
-* __Não foi possivel construir os containers em docker. A arquitetura ARM64v8 não possibilita estabilidade do Windows Support for Linux (WSL) para que o build possa ser realizado. Detalhes nos ARQUIVOS ANEXOS NO REQ_A_#4 ([Dockerfile #4](https://github.com/Moriblo/front/issues/4)). Para que não se deixasse de ter uma entrega minimamente portável, foi improvisada uma alternativa com arquivos de extensão "exe"__
+* __Não foi possivel construir os containers em docker. A arquitetura ARM64v8 não possibilita estabilidade do Windows Support for Linux (WSL) para que o build possa ser realizado. Detalhes nos ARQUIVOS ANEXOS NO REQ_A_#4 ([Dockerfile #4](https://github.com/Moriblo/front/issues/4)). Para que não se deixasse de ter uma entrega minimamente portável, foi improvisada uma alternativa com arquivos de extensão "exe"_
   
 ![Projeto Obras de Arte](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/800px-Louvre_Courtyard%2C_Looking_West.jpg)
 
