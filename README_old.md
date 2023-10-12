@@ -11,5 +11,3 @@ Professional with substantial experience in TMT market, developed in Brazil, USA
 * 🚀  I'm currently working on [Projeto Obras de Arte](http://github.com/Moriblo/front)
 * 🤝  I'm open to collaborating on https://github.com/Moriblo/ESG-Value-Mining
 * ⚡  The ESG Value Mining is a challenger project to study the paths to integrate various ESGs themes. The main target is founding the best options to reach best results in the ESG improvements.
-
-![Harvard Certification](https://www.my.certifyme.online/static/fileStore/img/1584/7691/203479_badge_9B9D15.png)
