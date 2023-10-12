@@ -8,7 +8,7 @@ Professional with substantial experience in TMT market, developed in Brazil, USA
 
 * 🌍  I'm based in Rio de Janeiro - Brazil
 * ✉️  You can contact me at [e-mail](mailto:blondet.mr@gmail.com)
-* ✔️  You also can schedule a meeting with me [agenda](https://calendly.com/moacyrblondet/individual-meeting)
+* ✔️  You can also schedule a meeting with me [agenda](https://calendly.com/moacyrblondet/individual-meeting)
 * 🔗  If you will want to know a little more about my career...[LinkedIn](https://www.linkedin.com/in/moacyrblondet/)
 
 * 🚧 The ESG Value Mining is a challenger project effort to study the paths to integrate various ESGs themes. The main target is founding the best options to reach best results in the ESG improvements.⚡ 
