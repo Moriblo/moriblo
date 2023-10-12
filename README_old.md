@@ -8,11 +8,12 @@ Professional with substantial experience in TMT market, developed in Brazil, USA
 
 * 🌍  I'm based in Rio de Janeiro - Brazil
 * ✉️  You can contact me at [e-mail](mailto:blondet.mr@gmail.com)
-* ✔️  You also can schedule a meeting with me [Agenda](https://calendly.com/moacyrblondet/individual-meeting)
-* ⚡  The ESG Value Mining is a challenger project to study the paths to integrate various ESGs themes. The main target is founding the best options to reach best results in the ESG improvements.
-* 🔗  If you will want to know a little more about my career...https://www.linkedin.com/in/moacyrblondet/
+* ✔️  You also can schedule a meeting with me [agenda](https://calendly.com/moacyrblondet/individual-meeting)
+* 🔗  If you will want to know a little more about my career...[LinkedIn](https://www.linkedin.com/in/moacyrblondet/)
+
+* 🚧 The ESG Value Mining is a challenger project effort to study the paths to integrate various ESGs themes. The main target is founding the best options to reach best results in the ESG improvements.⚡ 
 
 <!-- 
 * 🚀  I'm currently working on [Projeto Obras de Arte](http://github.com/Moriblo/front)
-* 🤝  I'm open to collaborating on https://github.com/Moriblo/ESG-Value-Mining
+* 🤝  I'm open to collaborating on [ESG-Value-Mining](https://github.com/Moriblo/ESG-Value-Mining)
 -->
