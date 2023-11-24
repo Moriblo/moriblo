@@ -10,6 +10,7 @@ Professional with substantial experience in TMT market, developed in Brazil, USA
 * ✉️ You can contact me by [e-mail](mailto:blondet.mr@gmail.com)
 * ✔️ You can also schedule a meeting with me in my [agenda](https://calendly.com/moacyrblondet/individual-meeting)
 * 🔗 If you want to know a little more about my career...[LinkedIn](https://www.linkedin.com/in/moacyrblondet/)
+* 🧭 If you want to know a little more about my perfil...[assessfirst](https://app.assessfirst.com/_/profile/nk2sqo34-moacyr-blondet?lang=pt-BR)
 * ⚡ The most recent conpleted project was [Obras de Arte](https://github.com/Moriblo/moriblo/blob/main/README_Spt3PUC.md)
 * 📣 What is going on...[ESG_VM](https://moriblo.github.io/ESG_VM/)
 
