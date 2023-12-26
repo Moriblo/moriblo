@@ -12,7 +12,7 @@ Professional with substantial experience in TMT market, developed in Brazil, USA
 * 🔗 If you want to know a little more about my career...[LinkedIn](https://www.linkedin.com/in/moacyrblondet/)
 * 🧭 If you want to know a little more about my perfil...[assessfirst](https://app.assessfirst.com/_/profile/nk2sqo34-moacyr-blondet?lang=pt-BR)
 * ⚡ The most recent conpleted project was [Obras de Arte](https://github.com/Moriblo/moriblo/blob/main/README_Spt3PUC.md)
-* 📣 What is going on...[ESG_VM](https://moriblo.github.io/ESG_VM/)
+* 📣 What is going on...[ESG_VM](https://avalcorp.github.io/ESG_VM/)
 
 <!--
 * 🚧 Working on a project called ESG Value Mining, to be published till january. The ESG Value Mining is a challenger project effort to study the paths to integrate various ESGs themes. The main target is founding the best options to reach best results in the ESG improvements.⚡
