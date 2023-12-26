@@ -11,5 +11,5 @@ Professional with substantial experience in TMT market, developed in Brazil, USA
 * ✔️ You can also schedule a meeting with me in my [Agenda](https://calendly.com/moacyrblondet/individual-meeting)
 * 🔗 If you want to know a little more about my career... [LinkedIn](https://www.linkedin.com/in/moacyrblondet/)
 * 🧭 If you want to know a little more about my perfil... [Assessfirst](https://app.assessfirst.com/_/profile/nk2sqo34-moacyr-blondet?lang=pt-BR)
-* ⚡ The most recent conpleted project were... [Portfolio]()
+* ⚡ The most recent conpleted project were... [Portfolio](https://github.com/Moriblo/moriblo/blob/main/README_Portfolio.md)
 * 📣 What is going on...[ESG_VM](https://avalcorp.github.io/ESG_VM/)
