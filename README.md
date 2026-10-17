@@ -66,11 +66,12 @@ Technology and transformation executive with **30+ years** across engineering, o
 
 ### Academic portfolio
 
+Postgraduate projects in Software Engineering at PUC-Rio (2023):
+
 | Project | Focus |
 |:--|:--|
-| 📂 **[Multi-market Fund Evaluation](https://github.com/Moriblo/PUC_EngSoft_MVP4_avalfimult/blob/main/README.md)** | Machine Learning model for multi-market investment funds (PUC-Rio, Software Engineering) |
-| 📂 **[Works of Art](https://github.com/Moriblo/moriblo/blob/main/README_Spt3PUC.md)** | Front end and microservice APIs (translator, museum search, artworks) with Docker (PUC-Rio, Software Engineering) |
-| ⚡ **[Portfolio](https://github.com/Moriblo/moriblo/blob/main/README_Portfolio.md)** | Index of the most recent completed projects |
+| 📂 **[Multi-market Fund Evaluation](https://github.com/Moriblo/PUC_EngSoft_MVP4_avalfimult/blob/main/README.md)** | Machine Learning model for evaluating multi-market investment funds |
+| 📂 **[Works of Art](https://github.com/Moriblo/moriblo/blob/main/README_Spt3PUC.md)** | Front end and microservice APIs (translator, museum search, artworks) packaged with Docker |
 
 ---
 
