@@ -62,16 +62,14 @@ Technology and transformation executive with **30+ years** across engineering, o
 | 🧪 **[OGT](https://github.com/Moriblo/OGT)** | *Orchestration for Governance & Testing* — framework to evaluate governed executions against defined requirements and produce evidence-based findings for human review. Currently at blueprint stage. |
 | 🤖 **[MARGO](https://github.com/Moriblo/discord-migrator)** | Auditable agent that migrates Discord resources between servers, with human authorization gates for copy, validation and deletion. Repository foundation (Phase 0) in place. |
 | 🗄️ **[repo_backup](https://github.com/Moriblo/repo_backup)** | Governed backup of GitHub repositories to OneDrive: human-approved command log, dispatcher workflow, preflight checks and evidence collection. |
-| 🎓 **[MIT](https://github.com/Moriblo/MIT)** | Project work from *Agentic AI Applied to Business Transformation* (MIT Professional Education). |
 
 ### Academic portfolio
 
-Postgraduate projects in Software Engineering at PUC-Rio (2023):
-
-| Project | Focus |
-|:--|:--|
-| 📂 **[Multi-market Fund Evaluation](https://github.com/Moriblo/PUC_EngSoft_MVP4_avalfimult/blob/main/README.md)** | Machine Learning model for evaluating multi-market investment funds |
-| 📂 **[Works of Art](https://github.com/Moriblo/moriblo/blob/main/README_Spt3PUC.md)** | Front end and microservice APIs (translator, museum search, artworks) packaged with Docker |
+| Project | Institution | Focus |
+|:--|:--|:--|
+| 🎓 **[Agentic AI for Business Transformation](https://github.com/Moriblo/MIT)** | MIT Professional Education (2026) | Project work from *Agentic AI Applied to Business Transformation* |
+| 📂 **[Multi-market Fund Evaluation](https://github.com/Moriblo/PUC_EngSoft_MVP4_avalfimult/blob/main/README.md)** | PUC-Rio, Software Engineering (2023) | Machine Learning model for evaluating multi-market investment funds |
+| 📂 **[Works of Art](https://github.com/Moriblo/moriblo/blob/main/README_Spt3PUC.md)** | PUC-Rio, Software Engineering (2023) | Front end and microservice APIs (translator, museum search, artworks) packaged with Docker |
 
 ---
 
