@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Moacyr Ribeiro Blondet — Technology &amp; Transformation Executive">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14263F"/>
+      <stop offset="1" stop-color="#2E6F95"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="220" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="220" rx="14" fill="url(#grid)"/>
+  <!-- network motif: nodes and links, a nod to telecom and portfolio governance -->
+  <g stroke="#9FC3DD" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+    <path d="M760 60 L850 40 L930 90 L870 160 L780 150 Z"/>
+    <path d="M760 60 L870 160 M850 40 L780 150 M930 90 L780 150"/>
+  </g>
+  <g fill="#9FC3DD">
+    <circle cx="760" cy="60" r="5" fill-opacity="0.8"/>
+    <circle cx="850" cy="40" r="4" fill-opacity="0.7"/>
+    <circle cx="930" cy="90" r="6" fill-opacity="0.9"/>
+    <circle cx="870" cy="160" r="4" fill-opacity="0.7"/>
+    <circle cx="780" cy="150" r="5" fill-opacity="0.8"/>
+  </g>
+  <rect x="60" y="62" width="56" height="4" rx="2" fill="#7FB2D6"/>
+  <text x="60" y="112" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0.5">Moacyr Ribeiro Blondet</text>
+  <text x="60" y="150" fill="#D6E6F2" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="500">Technology &amp; Transformation Executive</text>
+  <text x="60" y="180" fill="#9FC3DD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="1.5">PORTFOLIO GOVERNANCE · PROJECT RECOVERY · TELECOM OPERATIONS</text>
+</svg>
